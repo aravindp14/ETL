@@ -1,0 +1,7 @@
+metal_type,price,unit,currency,location,scraped_date,reported_date
+#1 Busheling Scrap,412.0,metric_ton,USD,USA,2026-06-21 11:47:40.278330,2026-01-29
+#1 Heavy Melting Scrap,366.0,metric_ton,USD,USA,2026-06-21 11:47:40.278398,2026-01-29
+Cold-rolled Coil,1173.0,metric_ton,USD,USA,2026-06-21 11:47:40.278451,2026-01-29
+Hot-rolled Band,978.0,metric_ton,USD,USA,2026-06-21 11:47:40.278501,2026-01-29
+Shredded Scrap,413.0,metric_ton,USD,USA,2026-06-21 11:47:40.278550,2026-01-29
+Standard Plate,1160.0,metric_ton,USD,USA,2026-06-21 11:47:40.278599,2026-01-29

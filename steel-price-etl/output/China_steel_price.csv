@@ -1,0 +1,5 @@
+metal_type,price,unit,currency,location,scraped_date,reported_date
+Cold-rolled Coil,486.0,metric_ton,USD,China,2026-06-21 11:47:42.085419,2026-01-29
+Hot-rolled Band,405.0,metric_ton,USD,China,2026-06-21 11:47:42.085496,2026-01-29
+Rebar,396.0,metric_ton,USD,China,2026-06-21 11:47:42.085562,2026-01-29
+Standard Plate,417.0,metric_ton,USD,China,2026-06-21 11:47:42.085626,2026-01-29

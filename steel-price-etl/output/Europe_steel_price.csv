@@ -1,0 +1,5 @@
+metal_type,price,unit,currency,location,scraped_date,reported_date
+Cold-rolled Coil,0.0,metric_ton,USD,Europe,2026-06-21 11:47:43.808979,2026-01-29
+Hot-rolled Band,770.0,metric_ton,USD,Europe,2026-06-21 11:47:43.809071,2026-01-29
+Rebar,0.0,metric_ton,USD,Europe,2026-06-21 11:47:43.809145,2026-01-29
+Standard Plate,0.0,metric_ton,USD,Europe,2026-06-21 11:47:43.809217,2026-01-29
